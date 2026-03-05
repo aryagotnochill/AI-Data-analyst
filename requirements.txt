@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+pandas
+matplotlib
+seaborn
+plotly
+streamlit
+mysql-connector-python
